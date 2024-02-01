@@ -1,0 +1,78 @@
+<footer>
+        <section class="donnees">
+            <div class="contacter">
+                <div class="titre">
+                    NOUS CONTACTER         
+                </div>
+               
+                <div class="liens">
+                    <div class="rdv">
+                        <div>
+                            <a href="mailto:kenfackauriane2@gmail.com">
+                                <img src="../image/yahoo.png" alt="">
+                               
+                            </a>
+                           
+                        </div>
+                        <div class="lien">
+                            kamsu_e@yahoo.fr
+                        </div>
+                    </div>
+        
+                    <div class="rdv">
+                        <div>
+                            <a href="lien vers facebook">
+                                <img src="../image/facebook (1).png" alt="">
+                            </a>
+                            
+                        </div>
+                        <div class="lien">
+                            Ets kam's et Fils designers staff
+                        </div> 
+                    </div>
+        
+                    <div class="rdv">
+                        <div>
+                            <a href="lien vers whatsapp">
+                                <img src="../image/whatsapp.png" alt="">
+                            </a>
+                           
+                        </div>
+                        <div class="lien">
+                            +237 677815545 / +237 6994279260
+                        </div>       
+                    </div>
+                </div>
+                
+            </div>
+            <div class="logos">
+                <div class="image">
+                    <img src="../image/logo.png" alt="">
+                </div>
+                
+                <div class="localisation">
+                    <div class="titre">
+                        AUTRES INFORMATIONS
+                    </div>
+                    <div class="informations">
+                        <p>
+                            Nous sommes situes au <span>carrefour arie</span> face usine Aquavita
+                        </p>
+                        <p>
+                            B.P 7519 Douala/Cameroun
+                        </p>
+                        <p>
+                            N°Cont:po3761228165w
+                        </p>
+                        <p>
+                            N°compte:Afriland first bank:000 200 460241100176
+                        </p>
+                    </div>
+                    
+                </div>
+            </div>
+        </section>
+        <section class="autresdonnees">
+            IMMATRICULATION AU RCCM SOUS LE NUMERO RC/DLA/2015/A/1132
+        </section>
+    </footer>
