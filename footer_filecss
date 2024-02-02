@@ -1,0 +1,46 @@
+footer{
+    display: flex;
+    flex-direction: column;
+    
+}
+footer .contacter{
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+}
+footer .donnees{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 250px;
+    padding: 20px 60px 20px 60px;
+    background-color: rgb(3, 3, 94);
+}
+footer .contacter .titre{
+    color:aliceblue;
+}
+footer .liens{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+footer .liens .rdv a{
+ text-decoration: none;
+ color: #f0e9e9;
+}
+footer .rdv{
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+}
+footer .rdv img{
+    height: 40px;
+}
+footer .rdv .lien {
+    padding-top: 11px;
+    color: white;
+}
+footer .logos img{
+    width: 100px;
+    height: 100px;
+}
