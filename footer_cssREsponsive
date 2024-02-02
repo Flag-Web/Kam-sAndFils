@@ -1,0 +1,45 @@
+footer .donnees{
+        display: flex;
+        flex-direction: column;
+        row-gap: 80px;
+        padding: 20px 60px 20px 25px;
+        justify-content: start;
+        height: 800px;
+        
+    }
+    footer .contacter .titre, .localisation .titre{
+        font-size: 25px;
+    }
+    footer .rdv img{
+        height: 50px;
+    }
+    footer .rdv .lien {
+        font-size: 23px;
+    }
+    footer .logos{
+       
+        display: flex;
+        flex-direction: column;
+        row-gap: 80px;
+    
+    }
+    footer .logos .image{
+        display: none;
+    }
+    footer .logos .localisation{
+        display: flex;
+        flex-direction: column;
+        width: 310px;
+        row-gap: 10px
+        ;
+    }
+    footer .logos .informations{
+        font-size: 23px;
+        /* background-color: #83d41a; */
+        height: 250px;
+        row-gap: 40px;
+    }
+    footer .autresdonnees{
+        height: 40px;
+        padding:7px 0px 0px 60px;
+    }
